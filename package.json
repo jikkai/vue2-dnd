@@ -1,0 +1,32 @@
+{
+  "name": "vue2-dnd",
+  "version": "1.0.0",
+  "description": "Drag n' Drop plugin for Vue.js",
+  "author": "Jikkai Xiao <sonne@asaki.me>",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jikkai/vue2-dnd.git"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "dragndrop",
+    "dnd",
+    "plugin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jikkai/vue2-dnd/issues"
+  },
+  "homepage": "https://github.com/jikkai/vue2-dnd#readme",
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "rollup": "^0.37.2",
+    "rollup-plugin-babel": "^2.6.1",
+    "rollup-plugin-uglify": "^1.0.1"
+  }
+}
