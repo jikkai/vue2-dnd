@@ -1,6 +1,6 @@
 {
   "name": "vue2-dnd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drag n' Drop plugin for Vue.js",
   "author": "Jikkai Xiao <sonne@asaki.me>",
   "main": "lib/index.js",
