@@ -4,6 +4,9 @@
 
 > Drag n' Drop plugin for Vue.js
 
+## Demo
+[jsfiddle](https://jsfiddle.net/jikkai/jy8epmor/3/)
+
 ## Installation
 ```
 npm install vue2-dnd --save
