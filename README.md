@@ -40,7 +40,7 @@ v-draggable.[groupname]="[draggable object]"
 
 ### Droppable Directive
 ```
-v-draggable.[groupname]="[droppable callback function]"
+v-droppable.[groupname]="[droppable callback function]"
 ```
 
 ```
