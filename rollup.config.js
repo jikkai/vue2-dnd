@@ -8,5 +8,5 @@ export default {
   ],
   format: 'umd',
   moduleName: "Vue2Dnd",
-  dest: './index.js'
+  dest: './lib/index.js'
 }
